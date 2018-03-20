@@ -22,7 +22,7 @@
 		<div class="navbar-container" id="navbar-container">
 			<div class="navbar-header pull-left">
 				<a href="#" class="navbar-brand"> <small> <i
-						class="icon-leaf"></i> 杭州归谷培训中心教务管理系统
+						class="icon-leaf"></i> 沙县小吃点餐管理
 				</small>				</a>
 				<!-- /.brand -->
 			</div>
@@ -118,30 +118,24 @@
                     
 			    <li><a href="javascript:void(0)" target="mainframe"
 						class="dropdown-toggle"> <i class="icon-desktop"></i> <span
-							class="menu-text"> 系统管理 </span> <b class="arrow icon-angle-down"></b>
+							class="menu-text"> 商家管理 </span> <b class="arrow icon-angle-down"></b>
 					</a>
 
 						<ul class="submenu">
 							
                             <li><a href="${pageContext.request.contextPath}/view/system/staffinfo/staffinfo_list.jsp" target="mainframe"> <i
-									class="icon-double-angle-right"></i> 员工管理
+									class="icon-double-angle-right"></i> 基本管理
 							</a></li>
                             <li><a href="view/system/roleinfo/roleinfo_list.html" target="mainframe"> <i
-									class="icon-double-angle-right"></i> 角色管理
+									class="icon-double-angle-right"></i> 菜单管理
 							</a></li>
 						   <li><a href="view/system/roleinfo/staffinfo_role_list.html" target="mainframe"> <i
-									class="icon-double-angle-right"></i> 角色变更	</a></li>
-                          <li><a href="view/system/anthorty/anthorty_list.html" target="mainframe"> <i
-									class="icon-double-angle-right"></i> 权限管理	</a></li> 
-                         <li><a href="view/system/anthotychange/anthorty_changelist.html" target="mainframe"> <i
-									class="icon-double-angle-right"></i> 权限变更</a></li>  
-   						 <li><a href="view/system/datadictionary/datadictionary_list.html" target="mainframe"> <i
-									class="icon-double-angle-right"></i> 数据字典</a></li>                                                    
+									class="icon-double-angle-right"></i> 订单管理	</a></li>
 						</ul>
 				</li>
 			  <li><a href="javascript:void(0)" target="mainframe"
 						class="dropdown-toggle"> <i class="icon-desktop"></i> <span
-							class="menu-text"> 营销管理 </span> <b class="arrow icon-angle-down"></b>
+							class="menu-text"> 用户管理 </span> <b class="arrow icon-angle-down"></b>
 					</a>
 
 						<ul class="submenu">

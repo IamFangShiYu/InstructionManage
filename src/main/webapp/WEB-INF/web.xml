@@ -98,7 +98,7 @@ xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
 
   <welcome-file-list>
 
-    <welcome-file>view/login.jsp</welcome-file>
+    <welcome-file>view/Choose.jsp</welcome-file>
 
   </welcome-file-list>
 
